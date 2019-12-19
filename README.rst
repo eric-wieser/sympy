@@ -61,7 +61,7 @@ the `SymPy Documentation Style Guide
 Everything is at:
 
 https://docs.sympy.org/
-
+h
 You can generate everything at the above site in your local copy of SymPy by::
 
     $ cd doc
